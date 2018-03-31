@@ -1,0 +1,12 @@
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\bin\Debug\USMTUI.exe.config
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\bin\Debug\USMTUI.exe
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\bin\Debug\USMTUI.pdb
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\bin\Debug\USMTUI.xml
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.vbprojResolveAssemblyReference.cache
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.frmMain.resources
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.Resources.resources
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.vbproj.GenerateResource.cache
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.vbproj.CoreCompileInputs.cache
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.exe
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.xml
+C:\Users\Tyler\Source\Repos\USMTUI\USMTUI\obj\Debug\USMTUI.pdb
