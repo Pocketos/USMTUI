@@ -118,8 +118,11 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\USMTUI.frmMain.resources" />
+    <EmbeddedResource Include="obj\Debug\USMTUI.Resources.resources" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="bin\Debug\USMTUI.exe.config" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -130,6 +133,11 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\USMTUI.vbproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\USMTUI.vbproj.GenerateResource.cache" />
+    <None Include="obj\Debug\USMTUI.vbprojResolveAssemblyReference.cache" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
@@ -150,6 +158,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\FolderOpen_32xMD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\USMTUI.exe" />
+    <Content Include="bin\Debug\USMTUI.pdb" />
+    <Content Include="bin\Debug\USMTUI.xml" />
+    <Content Include="obj\Debug\TempPE\My Project.Resources.Designer.vb.dll" />
+    <Content Include="obj\Debug\USMTUI.exe" />
+    <Content Include="obj\Debug\USMTUI.pdb" />
+    <Content Include="obj\Debug\USMTUI.vbproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\USMTUI.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
